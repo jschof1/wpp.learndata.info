@@ -37,10 +37,10 @@
   "_lockType": "",
   "_id": "course",
   "_start": {
-    "_isEnabled": false,
+    "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "5ef1e7e42e43fe0f9af2f0e1",
+        "_id": "62386a33134761027a9605ab",
         "_skipIfComplete": false,
         "_className": ""
       }
@@ -378,6 +378,11 @@
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
+  },
+  "_backButton": {
+    "_isEnabled": false,
+    "_hideBackButton": true,
+    "_redirectToId": ""
   },
   "_boxMenu": {
     "_backgroundImage": {

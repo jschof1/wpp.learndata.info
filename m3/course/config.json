@@ -78,5 +78,8 @@
   },
   "_devtools": {
     "_isEnabled": true
+  },
+  "_backButton": {
+    "_isEnabled": true
   }
 }

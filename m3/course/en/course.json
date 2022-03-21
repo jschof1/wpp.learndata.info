@@ -379,6 +379,11 @@
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
   },
+  "_backButton": {
+    "_isEnabled": false,
+    "_hideBackButton": false,
+    "_redirectToId": ""
+  },
   "_boxMenu": {
     "_backgroundImage": {
       "_large": "",

@@ -43,7 +43,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "WPP Open Logo",
+    "title": "New Component Title",
     "displayTitle": "",
     "body": "",
     "_id": "6238638e134761027a960230",
@@ -62,9 +62,11 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "small": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "attribution": "<a href=\"https://wpp.com\" target=\"_blank\">WPP</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
     }
   },
   {
