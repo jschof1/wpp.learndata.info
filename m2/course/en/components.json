@@ -740,7 +740,7 @@
       {
         "title": "Helping existing clients extract better value from their data through effective data management",
         "_ariaLevel": 0,
-        "body": "<p>John Lewis wanted to increase product coverage and visibility in Google Paid Search campaigns and to increase the return on investment on its Google spend. Wunderman Thompson’s Commerce Data Management team set up product feed technology to extract product data from the retailer’s website. They then used this data to build campaigns for John Lewis and to set automated business rules. As a result, return on investment in paid search increased by 300% and conversions by 250%.</p>",
+        "body": "<p>John Lewis wanted to increase product coverage and visibility in Google Paid Search campaigns and to increase the return on investment on its Google spend. <a href=\"https://www.wundermanthompson.com/insight/retail-concierges-2-0\">Wunderman Thompson’s Commerce Data Management team set up product feed technology</a> to extract product data from the retailer’s website. They then used this data to build campaigns for John Lewis and to set automated business rules. As a result, return on investment in paid search increased by 300% and conversions by 250%.</p>",
         "_graphic": {
           "src": "course/en/assets/27e46b8ecff0ef00b011569e3060bd672793f041.jpg",
           "alt": "",
@@ -751,7 +751,7 @@
       {
         "title": "Generating value through shared work",
         "_ariaLevel": 0,
-        "body": "<p>The Mirum data team explored the WPP OPEN Data catalog for relevant datasets and to suggest new ones based on their client’s needs. Two datasets were used to develop decision trees and neural networks. These were documented and the Mirum team shared the documentation on the Wunderman Thompson data science Slack channel. The learnings from the decision tree exercise were applied to a decision tree project for United Healthcare.</p>",
+        "body": "<p>The <a href=\"https://open.wpp.com/help-me-sell/mirum-sharing-insight-and-knowledge-through-the-data-catalog/\">Mirum data team</a> explored the <a href=\"https://open.wpp.com/data/data-catalog/\">WPP OPEN Data catalog</a> for relevant datasets and to suggest new ones based on their client’s needs. Two datasets were used to develop decision trees and neural networks. These were documented and the Mirum team shared the documentation on the Wunderman Thompson data science Slack channel. The learnings from the decision tree exercise were applied to a decision tree project for United Healthcare.</p>",
         "_graphic": {
           "src": "course/en/assets/451c6dc1e6683b6ad4c3a93fcff3b71fcdebaf6d.jpg",
           "alt": "",
