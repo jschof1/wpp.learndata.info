@@ -12,8 +12,8 @@
     "title": "Using data for creative transformation",
     "displayTitle": "Using data for creative transformation",
     "body": "<p dir=\"ltr\">Our clients pay for high-quality data products and services that deliver value: value that is created by releasing data from silos and putting it to work.</p><p dir=\"ltr\">This module explores how data:</p><ul dir=\"ltr\"><li>inspires and informs the creative process</li><li>helps us reach new markets and audiences</li><li>provides new insights into markets, consumers and brands</li><li>makes a greater impact when accessed, used and shared more effectively</li><li>makes our work more efficient and gets better results for our clients.</li></ul>",
-    "_id": "5f24226b41097409545143cd",
-    "_parentId": "5f24226b410974095451438d",
+    "_id": "62386575134761027a960381",
+    "_parentId": "62386572134761027a960336",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -40,8 +40,8 @@
     "title": "Intro logo",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24226b41097409545143ce",
-    "_parentId": "5f24226b410974095451438d",
+    "_id": "62386575134761027a960382",
+    "_parentId": "62386572134761027a960336",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -74,8 +74,8 @@
     "title": "The role of data at WPP",
     "displayTitle": "The role of data at WPP",
     "body": "<p>How can data be used at WPP?</p>",
-    "_id": "5f24226b41097409545143cf",
-    "_parentId": "5f24226b410974095451438e",
+    "_id": "62386575134761027a960383",
+    "_parentId": "62386572134761027a960341",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -110,7 +110,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -169,8 +169,8 @@
     "title": "Data in action: inspiring and informing the creative process",
     "displayTitle": "Data in action: inspiring and informing the creative process",
     "body": "<p dir=\"ltr\">Used in creative ways, data can spark emotions. This helps improve the engagement people have with data, reducing fear and increasing intrigue.</p><p dir=\"ltr\">When using data creatively an essential part of the process is deciding how data should be processed and how the outputs should be shared. Data impacts all areas of our lives but this is often difficult to represent and demystify. Collaboration between artists, creatives and technical experts, such as data scientists can help. These collaborations can lead to new creative work, including artworks, poetry and music.</p>",
-    "_id": "5f24226b41097409545143d0",
-    "_parentId": "5f24226b410974095451438f",
+    "_id": "62386575134761027a960384",
+    "_parentId": "62386572134761027a96034b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -232,8 +232,8 @@
     "title": "Read more: inspiring and informing the creative process",
     "displayTitle": "Read more: inspiring and informing the creative process",
     "body": "",
-    "_id": "5f24226b41097409545143d1",
-    "_parentId": "5f24226b4109740954514390",
+    "_id": "62386575134761027a960385",
+    "_parentId": "62386573134761027a960353",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -298,8 +298,8 @@
     "title": "Creativity in marketting",
     "displayTitle": "",
     "body": "<blockquote><p>“Creativity in marketing exists for an agreed purpose. It is expected to have an effect on its audience: on their knowledge, on their feelings, on their behaviour. It is expected not only to pay for itself but to return more than its cost to its sponsor.”&nbsp;</p><p><em>--Jeremy Bullmore</em></p></blockquote>",
-    "_id": "5f24226b41097409545143d2",
-    "_parentId": "5f24226b4109740954514391",
+    "_id": "62386575134761027a960386",
+    "_parentId": "62386573134761027a96035a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -326,8 +326,8 @@
     "title": "How can we use data to reach new audiences?",
     "displayTitle": "How can we use data to reach new audiences?",
     "body": "",
-    "_id": "5f24226b41097409545143d3",
-    "_parentId": "5f24226b4109740954514392",
+    "_id": "62386575134761027a960387",
+    "_parentId": "62386573134761027a960360",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -362,7 +362,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -421,8 +421,8 @@
     "title": "Data in action: reaching new markets and audiences",
     "displayTitle": "Data in action: reaching new markets and audiences",
     "body": "<p>Data serves as a material and inspiration for creative work. We also need to data to inform how we evolve ideas into content and campaigns that make an impact for our clients.&nbsp;</p><p>Find our how in the video below.</p>",
-    "_id": "5f24226b41097409545143d4",
-    "_parentId": "5f24226b4109740954514393",
+    "_id": "62386575134761027a960388",
+    "_parentId": "62386573134761027a960362",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -479,8 +479,8 @@
     "title": "Read more: reaching new markets and audiences",
     "displayTitle": "Read more: reaching new markets and audiences",
     "body": "",
-    "_id": "5f24226b41097409545143d5",
-    "_parentId": "5f24226b4109740954514394",
+    "_id": "62386575134761027a960389",
+    "_parentId": "62386573134761027a960364",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -494,13 +494,15 @@
     },
     "instruction": "",
     "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
       {
         "title": "Generating creative insights for a brand",
         "_ariaLevel": 0,
-        "body": "<p dir=\"ltr\">A variety of data sources, both internal and external can be used to better understand the relationships between markets, brands and consumers.</p><p dir=\"ltr\">An experiment in data-informed creativity helped Kantar Consulting and Wunderman identify a new way to raise the profile of Children’s IKEA by weaving multiple data sources together. They analysed 50m rows of data to find out what parents most care about and identified that ‘behaviour and development’ was high on the list, in second place. They also established that 50% of parents struggle for ideas that encourage creative play. So, IKEA Toybox was created, an augmented-reality driven app that inspires recycling boxes.&nbsp;&nbsp;</p>",
+        "body": "<p dir=\"ltr\">A variety of data sources, both internal and external can be used to better understand the relationships between markets, brands and consumers.</p><p dir=\"ltr\">An experiment in data-informed creativity helped <a href=\"https://sites.wpp.com/wppedcream/2018/data-driven-insights/how-is-data-reinventing-the-flatpack-empire?c=acc95612-04b0-48f7-bc7c-663710168a97\">Kantar Consulting and Wunderman identify a new way to raise the profile of Children’s IKEA</a> by weaving multiple data sources together. They analysed 50m rows of data to find out what parents most care about and identified that ‘behaviour and development’ was high on the list, in second place. They also established that 50% of parents struggle for ideas that encourage creative play. So, IKEA Toybox was created, an augmented-reality driven app that inspires recycling boxes.&nbsp;&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/8682736b553261101600bb0b8255609d85693dc4.png",
           "alt": "",
@@ -511,7 +513,7 @@
       {
         "title": "Reaching new markets",
         "_ariaLevel": 0,
-        "body": "<p dir=\"ltr\">When a WPP customer wants to increase the reach of their brand and generate sales, data about people provides insights that make strategy and planning decisions more effective.</p><p dir=\"ltr\">MediaCom used data to build an ‘intent-to-purchase score’ for Shell to help inform millions of prospects. They started by looking at data covering purchase ‘intent signals’ for consumers in China and the US. These signals were aggregated into a single intent-to-purchase score that was used to target customers. For the first time, Shell was able to target globally through media and messaging for every product, based on a customer’s actual intent to purchase.</p>",
+        "body": "<p dir=\"ltr\">When a WPP customer wants to increase the reach of their brand and generate sales, data about people provides insights that make strategy and planning decisions more effective.</p><p dir=\"ltr\"><a href=\"https://www.mediacom.com/en/case-studies/shell-itp\">MediaCom used data to build an ‘intent-to-purchase score’ for Shell</a> to help inform millions of prospects. They started by looking at data covering purchase ‘intent signals’ for consumers in China and the US. These signals were aggregated into a single intent-to-purchase score that was used to target customers. For the first time, Shell was able to target globally through media and messaging for every product, based on a customer’s actual intent to purchase.</p>",
         "_graphic": {
           "src": "course/en/assets/eab6f6cffbf8239c48f8f6585f9e47b13452ae8d.png",
           "alt": "",
@@ -545,8 +547,8 @@
     "title": "Increasing the value of data",
     "displayTitle": "",
     "body": "<p>Why do some businesses struggle to get value from data?</p>",
-    "_id": "5f24226b41097409545143d6",
-    "_parentId": "5f24226b4109740954514395",
+    "_id": "62386575134761027a96038a",
+    "_parentId": "62386573134761027a960366",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -581,7 +583,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -640,8 +642,8 @@
     "title": "Data connected",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24226b41097409545143d7",
-    "_parentId": "5f24226b4109740954514395",
+    "_id": "62386575134761027a96038b",
+    "_parentId": "62386573134761027a960366",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -674,8 +676,8 @@
     "title": "Getting connected",
     "displayTitle": "",
     "body": "<blockquote><p><em>“A single piece of data only becomes useful – and therefore valuable – once combined with other data.”</em></p><p><em>-- The ODI</em></p></blockquote>",
-    "_id": "5f24226b41097409545143d8",
-    "_parentId": "5f24226b4109740954514396",
+    "_id": "62386575134761027a96038c",
+    "_parentId": "62386574134761027a960368",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -702,8 +704,8 @@
     "title": "Data in action: getting connected",
     "displayTitle": "Data in action: getting connected",
     "body": "<p>Many organisations struggle to use data effectively. Data is often in siloes, is of insufficient quality or is accessed and used inefficiently by internal teams, who may have to resort to tactics like scraping data manually from a website. Helping a client better access, use and share their data creates strategic value for their business, achieving better returns from a previously underused resource. It also increases innovation across the business and improves the brand reputation of the originators of the work.</p>",
-    "_id": "5f24226b41097409545143d9",
-    "_parentId": "5f24226b4109740954514397",
+    "_id": "62386575134761027a96038d",
+    "_parentId": "62386574134761027a96036a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -717,6 +719,8 @@
     },
     "instruction": "Find out more in the case studies below:",
     "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
@@ -743,7 +747,7 @@
         "strapline": "Helping existing clients extract better value from their data through effective data management"
       },
       {
-        "title": "Generating value through shared work [and data]",
+        "title": "Generating value through shared work",
         "_ariaLevel": 0,
         "body": "<p>The Mirum data team explored the WPP OPEN Data catalog for relevant datasets and to suggest new ones based on their client’s needs. Two datasets were used to develop decision trees and neural networks. These were documented and the Mirum team shared the documentation on the Wunderman Thompson data science Slack channel. The learnings from the decision tree exercise were applied to a decision tree project for United Healthcare.</p>",
         "_graphic": {
@@ -751,7 +755,7 @@
           "alt": "",
           "attribution": "<a href=\"https://www.pexels.com/photo/abstract-art-blur-bright-373543/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
         },
-        "strapline": "Generating value through shared work [and data]"
+        "strapline": "Generating value through shared work"
       }
     ]
   },
@@ -768,8 +772,8 @@
     "title": "Getting better results for clients",
     "displayTitle": "Getting better results for clients",
     "body": "<p>How might analysing audience data help us improve the return on investment for a campaign?</p>",
-    "_id": "5f24226b41097409545143da",
-    "_parentId": "5f24226b4109740954514398",
+    "_id": "62386575134761027a96038e",
+    "_parentId": "62386574134761027a96036c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -804,7 +808,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -863,8 +867,8 @@
     "title": "Creativity in marketting",
     "displayTitle": "",
     "body": "<blockquote><p><em>“Big ideas come from the unconscious, but your unconscious has to be well informed or your idea will be irrelevant.”&nbsp;</em></p><p><em>-- David Ogilvy</em></p></blockquote>",
-    "_id": "5f24226b41097409545143db",
-    "_parentId": "5f24226b4109740954514399",
+    "_id": "62386575134761027a96038f",
+    "_parentId": "62386574134761027a96036d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -891,8 +895,8 @@
     "title": "Data in action: insights, refinement and targeted marketing",
     "displayTitle": "Data in action: insights, refinement and targeted marketing",
     "body": "",
-    "_id": "5f24226b41097409545143dc",
-    "_parentId": "5f24226b410974095451439a",
+    "_id": "62386575134761027a960390",
+    "_parentId": "62386574134761027a96036e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -956,9 +960,9 @@
     "_disableAccessibilityState": false,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p dir=\"ltr\">Our clients pay for high-quality data products and services that deliver value. Value that is created by releasing data from silos and putting it to work.</p><p dir=\"ltr\">Data is both a source of inspiration and a material used in the development of creative products. We can use data to help shape and refine what we create, provide actionable insights, and help us find ways to improve how we operate and deliver services.&nbsp;</p><p dir=\"ltr\">In this module we have seen how data can build brands, increase return on investment and connect emotionally with customers. This helps us to build trust in our work, but trust is fragile and we must ensure that we use data in ways that maintain and build trust.&nbsp;</p><p dir=\"ltr\">As we will see in the next module, building trust means engaging in two-way conversations with audiences about the challenges and limitations of data-informed marketing and advertising. Our clients should be able to trust how we work with and manage data. Consumers should be able to trust how we use data to shape creative work and run influential campaigns.</p>",
-    "_id": "5f24226b41097409545143dd",
-    "_parentId": "5f24226b410974095451439b",
+    "body": "<p dir=\"ltr\">Our clients pay for high-quality data products and services that deliver value. Value that is created by releasing data from silos and putting it to work.</p><p dir=\"ltr\">Data is both a source of inspiration and a material used in the development of creative products. We can use data to help shape and refine what we create, provide actionable insights, and help us find ways to improve how we operate and deliver services.&nbsp;</p><p dir=\"ltr\">In this module we have seen how data can build brands, increase return on investment and connect emotionally with customers. This helps us to build trust in our work, but trust is fragile and we must ensure that we use data in ways that maintain and build trust.&nbsp;</p><p dir=\"ltr\">As we will see in the next module, building trust means engaging in two-way conversations with audiences about the challenges and limitations of data-informed marketing and advertising. Our clients should be able to trust how we work with and manage data. Consumers should be able to trust how we use data to shape creative work and run influential campaigns.&nbsp;</p>",
+    "_id": "62386575134761027a960391",
+    "_parentId": "62386574134761027a96036f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {

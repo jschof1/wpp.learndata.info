@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none"><![CDATA[WPP - Being trusted with data]]></langstring>
+          <langstring xml:lang="x-none"><![CDATA[Being Trusted With Data]]></langstring>
         </title>
         <description>
           <langstring xml:lang="x-none"><![CDATA[]]></langstring>
@@ -16,9 +16,9 @@
   </metadata>
   <organizations default="adapt_scorm">
     <organization identifier="adapt_scorm">
-      <title><![CDATA[WPP - Being trusted with data]]></title>
+      <title><![CDATA[Being Trusted With Data]]></title>
       <item identifier="item_1" isvisible="true" identifierref="res1">
-        <title><![CDATA[WPP - Being trusted with data]]></title>
+        <title><![CDATA[Being Trusted With Data]]></title>
       </item>
     </organization>
   </organizations>

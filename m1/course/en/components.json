@@ -12,8 +12,8 @@
     "title": "Common barriers (1): Hoarding data",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2420dc4109740954514251",
-    "_parentId": "5f2420dc410974095451421d",
+    "_id": "6238638e134761027a96022f",
+    "_parentId": "6238638e134761027a96021e",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -46,8 +46,8 @@
     "title": "WPP Open Logo",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2420dc4109740954514252",
-    "_parentId": "5f2420dc4109740954514216",
+    "_id": "6238638e134761027a960230",
+    "_parentId": "6238638e134761027a9601f4",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -80,8 +80,8 @@
     "title": "How is impact created from data?",
     "displayTitle": "How is impact created from data?",
     "body": "<p>You create impact from data by:</p>",
-    "_id": "5f2420dc4109740954514253",
-    "_parentId": "5f2420dc4109740954514218",
+    "_id": "6238638e134761027a960231",
+    "_parentId": "6238638e134761027a960209",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -175,8 +175,8 @@
     "title": "Enabling our superpower",
     "displayTitle": "Enabling our superpower",
     "body": "<p>In addition to making use of the catalog to discover data, what else should you do?</p>",
-    "_id": "5f2420dc4109740954514254",
-    "_parentId": "5f2420dc410974095451421b",
+    "_id": "6238638e134761027a960232",
+    "_parentId": "6238638e134761027a960228",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -264,8 +264,8 @@
     "title": "Case studies: organisations being more open and trusted with data",
     "displayTitle": "Case studies: organisations being more open and trusted with data",
     "body": "",
-    "_id": "5f2420dc4109740954514255",
-    "_parentId": "5f2420dc410974095451421f",
+    "_id": "6238638e134761027a960233",
+    "_parentId": "6238638e134761027a960222",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -330,8 +330,8 @@
     "title": "Using data to lead creative transformation at WPP",
     "displayTitle": "",
     "body": "<p>To deliver creative transformation through data, we have a four-strand approach.</p>",
-    "_id": "5f2420dc4109740954514256",
-    "_parentId": "5f2420dc4109740954514220",
+    "_id": "6238638e134761027a960234",
+    "_parentId": "6238638e134761027a960226",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -348,7 +348,7 @@
     "_items": [
       {
         "title": "Open",
-        "body": "<p>We have built the WPP OPEN Data Catalog for our data community to access an index of data available across WPP and to share non-sensitive data. The catalog has already increased collaboration between our data talent in our creative, media and digital agencies.</p>",
+        "body": "<p>We have built the <a href=\"https://open.wpp.com/data/data-catalog/\">WPP OPEN Data Catalog</a> for our data community to access an index of data available across WPP and to share non-sensitive data. The catalog has already increased collaboration between our data talent in our creative, media and digital agencies.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -358,7 +358,7 @@
       },
       {
         "title": "Trusted",
-        "body": "<p>Creative transformation must be done in a way that maintains and boosts brand reputation and trust. With fears over AI and data being used to monitor, track and influence people we have run AI ethics workshops with 10 of our agencies and are creating guidelines and principles to be used alongside our AI Code of Conduct. These guidelines and principles will be rolled out to agencies in 2020, with the goal to embed them in everyday activities.</p>",
+        "body": "<p>Creative transformation must be done in a way that maintains and boosts brand reputation and trust. With fears over AI and data being used to monitor, track and influence people we have run AI ethics workshops with 10 of our agencies and are creating guidelines and principles to be used alongside our AI Code of Conduct. These guidelines and principles were&nbsp;rolled out to agencies in 2020, with the goal to embed them in everyday activities.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -368,7 +368,7 @@
       },
       {
         "title": "Future-proofed",
-        "body": "<p>To help everyone get creative through data, we will provide data literacy programmes for everyone. In addition to these modules, our AI Academy will upskill 2,500 data scientists in 2020 and the same again in 2021. Our Demystify AI programme will help upskill 25,000 of our colleagues in AI basics.</p>",
+        "body": "<p>To help everyone get creative through data, we&nbsp;provide data literacy programmes for everyone. In addition to these modules, our AI Academy&nbsp;upskilled 2,500 data scientists in 2020 and the same again in 2021. Our Demystify AI programme will help upskill 25,000 of our colleagues in AI basics.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -378,7 +378,7 @@
       },
       {
         "title": "Creatively inspiring",
-        "body": "<p>We are building a cross-agency, cross-market, multi-discipline data and AI community. This group fuels our creativity through code sharing, blogs, and challenges that give us space to think about questions laterally and to tackle client problems; and helps ensure we don’t duplicate work.</p>",
+        "body": "<p>We are building a cross-agency, cross-market, multi-discipline <a href=\"https://open.wpp.com/communities/list/data-and-ai/\">data and AI community</a>. This group fuels our creativity through code sharing, blogs, and challenges that give us space to think about questions laterally and to tackle client problems; and helps ensure we don’t duplicate work.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -387,7 +387,8 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "mcq",
@@ -402,8 +403,8 @@
     "title": "Common barriers to achieving impact from data",
     "displayTitle": "Common barriers to achieving impact from data",
     "body": "<p>Which of the following are common barriers to achieving impact from data?</p>",
-    "_id": "5f2420dc4109740954514257",
-    "_parentId": "5f2420dc410974095451421c",
+    "_id": "6238638e134761027a960235",
+    "_parentId": "6238638e134761027a960218",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -496,9 +497,9 @@
     "_disableAccessibilityState": false,
     "title": "Where data sits in our landscape",
     "displayTitle": "Where data sits in our landscape",
-    "body": "<p>We want data to motivate, inspire and to grow our creativity to help deliver high-quality products for our clients. Our clients pay for high-quality data outputs, not for huge data lakes which become too big and cumbersome to maintain.</p><p>“Through 2022, over 80% of data lake projects will fail to deliver value. Finding, inventorying and curating data will prove to be the biggest inhibitor to analytics and data science success.” - Gartner, September 2019</p><p>WPP is not in the business of buying, collecting and storing huge swathes of irrelevant data, especially when a lot of data is already available.</p><p>“Data increases in value the more it is connected” - ODI 2017</p><p>We want to enable our community to discover new sources of high-quality data – both internally and externally – we&nbsp; created the WPP OPEN Data catalog. The catalog provides an index of data available across WPP and enables our community to share non-sensitive data. The catalog has already increased collaboration between our data talent across our creative, media and digital agencies.</p><p>&nbsp;</p>",
-    "_id": "5f2420dc4109740954514258",
-    "_parentId": "5f2420dc4109740954514217",
+    "body": "<p>We want data to motivate, inspire and to grow our creativity to help deliver high-quality products for our clients. Our clients pay for high-quality data outputs, not for huge data lakes which become too big and cumbersome to maintain.</p><p>“Through 2022, over 80% of data lake projects will fail to deliver value. Finding, inventorying and curating data will prove to be the biggest inhibitor to analytics and data science success.” - Gartner, September 2019</p><p>WPP is not in the business of buying, collecting and storing huge swathes of irrelevant data, especially when a lot of data is already available.</p><p>“Data increases in value the more it is connected” - ODI 2017</p><p>We want to enable our community to discover new sources of high-quality data – both internally and externally – we&nbsp; created the <a href=\"https://open.wpp.com/data/data-catalog/\">WPP OPEN Data catalog</a>. The catalog provides an index of data available across WPP and enables our community to share non-sensitive data. The catalog has already increased collaboration between our data talent across our creative, media and digital agencies.</p><p>&nbsp;</p>",
+    "_id": "6238638e134761027a960236",
+    "_parentId": "6238638e134761027a9601ff",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -507,7 +508,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -524,8 +526,8 @@
     "title": "The data landscape",
     "displayTitle": "The data landscape",
     "body": "<p>Data is moving from being scarce and difficult to process to being abundant and easy to use.</p><p>However, to realise the full benefits that data can bring, businesses must understand the ‘data landscape’.</p><p>This module introduces:</p><ul><li>Where data sits in our landscape</li><li>How value is created from data</li><li>Common barriers that prevent the full value of data being realised</li><li>The advantages of being more open and trusted with data</li><li>How WPP is using data to lead creative transformation</li></ul>",
-    "_id": "5f2420dc4109740954514259",
-    "_parentId": "5f2420dc4109740954514216",
+    "_id": "6238638e134761027a960237",
+    "_parentId": "6238638e134761027a9601f4",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -552,8 +554,8 @@
     "title": "Creating impact with data",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2420dc410974095451425a",
-    "_parentId": "5f2420dc4109740954514219",
+    "_id": "6238638e134761027a960238",
+    "_parentId": "6238638e134761027a960211",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -586,8 +588,8 @@
     "title": "Where next?",
     "displayTitle": "Where next?",
     "body": "<p>To help everyone discover more about how WPP is using data, there are three additional modules available, each designed to help you discover more on each strand:</p><p><strong>Getting value from data: Creative inspiration and more…</strong></p><p>Find out more about how data can be collected, shared and used not just for creative inspiration but also to help realise other benefits.</p><p><strong>Being trusted with data</strong></p><p>We believe that clients should be able to rely on our data expertise to deliver creative transformation because they trust us to be responsible with data; to hold ourselves accountable for the data-driven decisions we are making; and to do our best to protect our clients. This module looks at what mechanisms need to be in place to ensure we are trusted to be responsible with data.</p><p><strong>Working with data</strong></p><p>We know data is imperfect and it’s only as good as the questions you ask of it – good design is imperative. This module introduces some of the key aspects involved in working with data that help us ensure data is well managed and can be used to generate transformative results.</p><p>&nbsp;</p>",
-    "_id": "5f2420dc410974095451425b",
-    "_parentId": "5f2420dc4109740954514221",
+    "_id": "6238638e134761027a960239",
+    "_parentId": "6238638e134761027a96022a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -614,8 +616,8 @@
     "title": "Common barriers (1): Hoarding data",
     "displayTitle": "",
     "body": "<p>One of the biggest challenges to realising the full value of data is the lack of cultural willingness to share data. The ODI calls this scenario ‘the oil field’.</p><p>The oil field is a scenario where: owning data; having as much data as possible in one place; trying to know everything about everyone and then maintaining the inevitable degradation of these datasets – is killing the return on investment (and the fun!) when working with&nbsp; data, and it’s not the only way!</p><p>Such approaches lead to a closed (or walled garden) environment which can greatly reduce innovation capabilities.</p><p>To overcome this barrier, organisations should support an open culture as much as possible. During challenging times it is especially important to realise the benefits of working with others, sharing insights and innovating together.</p><p>Building a data catalog that we can all use helps ensure variety is our data superpower. It also helps to prevent hoarding and the inevitable associated degradation of data.</p>",
-    "_id": "5f2420dc410974095451425c",
-    "_parentId": "5f2420dc410974095451421d",
+    "_id": "6238638e134761027a96023a",
+    "_parentId": "6238638e134761027a96021e",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -641,9 +643,9 @@
     "_disableAccessibilityState": false,
     "title": "Data variety is our superpower",
     "displayTitle": "Data variety is our superpower",
-    "body": "<p>Data is both a source of inspiration and a material used in the development of creative products. We can use data to help shape and refine what we create, reach new markets, drive engagement and deliver emotional experiences that connect consumers to our brands.</p><p>This superpower can only be activated when the right data is collected and made available to those who need it.</p><p>At WPP we want our data talent to spend as much time as possible using data creatively, not having to find and obtain access to data. This is why we have created the WPP Open Data catalog. The catalog will enable everyone to list, discover and explore relevant data that is available from the community as well as external sources.</p><p>Of course, we have access to all the usual datasets; <strong>audience data, client data, brand data, transactional data, market data, campaign data, creative and media data </strong>and <strong>operational data</strong>.</p>",
-    "_id": "5f2420dc410974095451425d",
-    "_parentId": "5f2420dc410974095451421a",
+    "body": "<p>Data is both a source of inspiration and a material used in the development of creative products. We can use data to help shape and refine what we create, reach new markets, drive engagement and deliver emotional experiences that connect consumers to our brands.</p><p>This superpower can only be activated when the right data is collected and made available to those who need it.</p><p>At WPP we want our data talent to spend as much time as possible using data creatively, not having to find and obtain access to data. This is why we have created the <a href=\"https://open.wpp.com/data/data-catalog/\">WPP Open Data catalog</a>. The catalog will enable everyone to list, discover and explore relevant data that is available from the community as well as external sources.</p><p>Of course, we have access to all the usual datasets; <strong>audience data, client data, brand data, transactional data, market data, campaign data, creative and media data </strong>and <strong>operational data</strong>.</p>",
+    "_id": "6238638e134761027a96023b",
+    "_parentId": "6238638e134761027a960224",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -652,7 +654,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -669,8 +672,8 @@
     "title": "Creating impact with data",
     "displayTitle": "Creating impact with data",
     "body": "<p>Value is created when we collect, manage and share data in ways that support creative transformation.</p><p>For example, recently we have seen how data can be used to: deliver £14m of sales for a large supermarket chain; demonstrate how nearly all modern music has roots in Tennessee; and create dynamic and unique brand experiences for music venues. You can find out more about these and other case studies in the next module.</p><p>Clients should be able to rely on our data expertise to deliver creative transformation because they trust us: to be responsible with data; to hold ourselves accountable for the data-driven decisions we are making; and to do our best to protect our clients.</p><p>To realise the value of data we need to develop the culture, capabilities and infrastructure that help ensure data is not siloed, and enable it to be used alongside other data.</p>",
-    "_id": "5f2420dc410974095451425e",
-    "_parentId": "5f2420dc4109740954514219",
+    "_id": "6238638e134761027a96023c",
+    "_parentId": "6238638e134761027a960211",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -696,8 +699,8 @@
     "title": "Common barriers (2): Fearing data",
     "displayTitle": "",
     "body": "<p>If data is unused and unloved, it will degrade and could potentially lead to security risks, reputational and brand damage. The ODI calls this scenario ‘the wasteland’.</p><p>The wasteland is most prevalent in situations where unaddressed fears arising from legitimate concerns – such as who has access to data and how it might be used – prevent any benefits being realised.</p><p>The ODI recommends putting in place practices that ensure the way data is collected and used is <strong>trustworthy </strong>and <strong>just</strong>.</p><p>To help address these fears WPP Open is developing a set of Data Ethics Principles and Guidelines that will be rolled out in each agency to ensure there is equity around who accesses, uses and benefits from data.</p><p>&nbsp;</p>",
-    "_id": "5f2420dc410974095451425f",
-    "_parentId": "5f2420dc410974095451421e",
+    "_id": "6238638e134761027a96023d",
+    "_parentId": "6238638e134761027a960220",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -724,8 +727,8 @@
     "title": "Common barriers (2): Fearing data",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2420dc4109740954514260",
-    "_parentId": "5f2420dc410974095451421e",
+    "_id": "6238638e134761027a96023e",
+    "_parentId": "6238638e134761027a960220",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -758,8 +761,8 @@
     "title": "WPP Data Strategy",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2420dc4109740954514261",
-    "_parentId": "5f2420dc4109740954514220",
+    "_id": "6238638e134761027a96023f",
+    "_parentId": "6238638e134761027a960226",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {

@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f24226b4109740954514377",
-    "_parentId": "5f24226b4109740954514373",
+    "_id": "62386572134761027a96032b",
+    "_parentId": "62386572134761027a960327",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -24,8 +24,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
-      "_isEnabled": true,
-      "_id": "creative_transformation",
+      "_isEnabled": false,
+      "_id": "",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -45,9 +45,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": true,
-        "_canShowMarking": true,
-        "_canShowModelAnswer": true
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       }
     },
     "_odi-generic": {

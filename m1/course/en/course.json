@@ -1,6 +1,6 @@
 {
-  "title": "WPP - The data landscape",
-  "displayTitle": "The data landscape",
+  "title": "Data Landscape",
+  "displayTitle": "Data Landscape",
   "body": "<p>At WPP we want data to motivate, change and grow our creativity, fuelled by our talent’s knowledge and curiosity. We do this by&nbsp;challenging ourselves to think more creatively about what data is available and how it can be used to deliver extraordinary insights for our clients.</p><p>These four modules have been developed to help everyone understand where data fits in the WPP landscape. They examine&nbsp;how data is already delivering creative transformation, and how we&nbsp;can work with data responsibly and in ways that our clients can trust.</p><p>Each interactive module has been designed to be easy to read through in around 15 minutes. Questions are used purely as learning aids and do not form part of any assessment process.&nbsp;</p>",
   "subtitle": "",
   "description": "",
@@ -40,13 +40,13 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "5f2420dc4109740954514207",
+        "_id": "6238638e134761027a9601e5",
         "_skipIfComplete": false,
         "_className": ""
       }
     ],
     "_force": false,
-    "_isMenuDisabled": true
+    "_isMenuDisabled": false
   },
   "_globals": {
     "_accessibility": {
@@ -75,11 +75,13 @@
       }
     },
     "_components": {
-      "_text": {
-        "ariaRegion": ""
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
       "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative.",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
       },
       "_media": {
         "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
@@ -89,41 +91,72 @@
         "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
         "popupPagination": "{{itemNumber}} / {{totalItems}}"
       },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_graphic": {
-        "ariaRegion": ""
-      },
-      "_matching": {
-        "ariaRegion": "Matching. Select from lists and then submit."
-      },
       "_textinput": {
         "ariaRegion": "Text input. Type your answer and then submit."
       },
-      "_mcq": {
-        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       },
-      "_gmcq": {
-        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
+      "_moralMachine": {
+        "ariaRegion": "Click on either picture to submit your choice."
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
       },
       "_assessmentResults": {
         "ariaRegion": "Assessment results."
       },
-      "_slider": {
-        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
-        "labelStart": "Start of the scale",
-        "labelEnd": "End of the scale"
+      "_moralMachineResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_moral-machine-gmcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_expose": {
+        "ariaRegion": ""
+      },
+      "_tabs": {
+        "ariaRegion": "A tabbed content container. Content can be text, graphic or both."
+      },
+      "_chartjs": {
+        "ariaRegion": "This is a charting component."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
       }
     },
     "_extensions": {
-      "_pageLevelProgress": {
-        "pageLevelProgress": "Page sections",
-        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
-        "pageLevelProgressMenuBar": "You have completed ",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
-        "optionalContent": "Optional Content"
-      },
       "_aboutPage": {
         "linkText": "",
         "titleText": "",
@@ -139,6 +172,13 @@
         "SL_twitter": "",
         "SL_vimeo": "",
         "SL_youtube": ""
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
       }
     },
     "_menu": {
@@ -165,7 +205,7 @@
       "link-inverted-hover": ""
     },
     "_themeLogo": {
-      "theme-logo": "course/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "theme-logo": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
       "theme-logo-top-padding": "2rem",
       "theme-logo-width": "90%"
     },
@@ -235,7 +275,7 @@
     "_nav": {
       "nav": "#000050",
       "nav-inverted": "#ffffff",
-      "hide-nav": true,
+      "hide-nav": false,
       "nav-icon": "#ffffff",
       "nav-icon-inverted": "#000050",
       "nav-icon-hover": "#ffffff",
@@ -302,15 +342,6 @@
       "shadow-inverted": "#ffffff"
     }
   },
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true,
-    "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": true
-  },
-  "_aboutPage": {
-    "_items": []
-  },
   "_FooterLink": {
     "_items": [
       {
@@ -331,9 +362,22 @@
       }
     ]
   },
+  "_aboutPage": {
+    "_items": []
+  },
+  "_spoor": {
+    "_messages": ""
+  },
   "_assessment": {
     "_isPercentageBased": true,
-    "_scoreToPass": 60
+    "_scoreToPass": 60,
+    "_correctToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
   },
   "_boxMenu": {
     "_backgroundImage": {

@@ -12,8 +12,8 @@
     "title": "Working with data",
     "displayTitle": "Working with data",
     "body": "<p>As we have seen in Module 2, data is a creative material. It does not exist simply to be processed in a spreadsheet and turned into a chart. Data can tell intriguing stories, create powerful experiences and lead a brand. But for data to create these experiences we need to ensure that working practices around data are robust.&nbsp;</p><p>This module will give a high-level overview of the processes and skills required to work practically with data to ensure high quality, robust results.&nbsp;</p><p>This module introduces a ‘double diamond’ approach to data-centric projects and the four key phases involved.&nbsp;</p>",
-    "_id": "5f24285d41097409545146ca",
-    "_parentId": "5f24285d4109740954514682",
+    "_id": "62386a33134761027a96062a",
+    "_parentId": "62386a33134761027a9605bd",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -40,8 +40,8 @@
     "title": "WPP Logo",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146cb",
-    "_parentId": "5f24285d4109740954514682",
+    "_id": "62386a33134761027a96062b",
+    "_parentId": "62386a33134761027a9605bd",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -74,8 +74,8 @@
     "title": "A ‘double diamond’ approach to data-centric projects",
     "displayTitle": "A ‘double diamond’ approach to data-centric projects",
     "body": "<p>The double diamond is a structured design approach to tackle challenges in two stages consisting of four phases: discover, define, develop and deliver.</p><p>You may have come across the excellent and widely recognised double diamond model before – based on a model proposed by Béla H. Bánáthy, and popularised by the British Design Council. So perhaps it might come as no surprise that the same methodology can be applied to data to help you understand where and when it fits within a project.</p><p>&nbsp;</p>",
-    "_id": "5f24285d41097409545146cc",
-    "_parentId": "5f24285d4109740954514683",
+    "_id": "62386a33134761027a96062c",
+    "_parentId": "62386a33134761027a9605c8",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -108,8 +108,8 @@
     "title": "The two diamonds",
     "displayTitle": "The two diamonds",
     "body": "<p>Each diamond represents a process of divergence and convergence. A diverging phase encourages broad and open thinking without limitation, whereas a converging phase focuses on condensing and narrowing ideas.&nbsp;</p><p>The four phases of the double diamond may be simplified and merged into two main stages (or diamonds):</p>",
-    "_id": "5f24285d41097409545146cd",
-    "_parentId": "5f24285d4109740954514684",
+    "_id": "62386a33134761027a96062d",
+    "_parentId": "62386a33134761027a9605d1",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -160,8 +160,8 @@
     "title": "Divergence, convergence",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146ce",
-    "_parentId": "5f24285d4109740954514684",
+    "_id": "62386a33134761027a96062e",
+    "_parentId": "62386a33134761027a9605d1",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -194,8 +194,8 @@
     "title": "Getting stuck in",
     "displayTitle": "",
     "body": "<p>What are the potential risks if the first diamond is skipped?</p>",
-    "_id": "5f24285d41097409545146cf",
-    "_parentId": "5f24285d4109740954514685",
+    "_id": "62386a33134761027a96062f",
+    "_parentId": "62386a33134761027a9605d9",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -230,7 +230,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -289,8 +289,8 @@
     "title": "Skip first diamond",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146d0",
-    "_parentId": "5f24285d4109740954514685",
+    "_id": "62386a33134761027a960630",
+    "_parentId": "62386a33134761027a9605d9",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -323,8 +323,8 @@
     "title": "Planning your time",
     "displayTitle": "Planning your time",
     "body": "<p>As a percentage, how long do you think should be allocated to the first diamond compared to the second?</p>",
-    "_id": "5f24285d41097409545146d1",
-    "_parentId": "5f24285d4109740954514686",
+    "_id": "62386a33134761027a960631",
+    "_parentId": "62386a33134761027a9605df",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -354,7 +354,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -413,8 +413,8 @@
     "title": "Q2: Planning your time",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146d2",
-    "_parentId": "5f24285d4109740954514686",
+    "_id": "62386a33134761027a960632",
+    "_parentId": "62386a33134761027a9605df",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -447,8 +447,8 @@
     "title": "Exploring the four phases",
     "displayTitle": "Exploring the four phases",
     "body": "<p>The following section explores the data-related aspects of the phases in a little more depth.</p>",
-    "_id": "5f24285d41097409545146d3",
-    "_parentId": "5f24285d4109740954514687",
+    "_id": "62386a33134761027a960633",
+    "_parentId": "62386a33134761027a9605be",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -475,8 +475,8 @@
     "title": "Exploring the four phases",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146d4",
-    "_parentId": "5f24285d4109740954514687",
+    "_id": "62386a33134761027a960634",
+    "_parentId": "62386a33134761027a9605be",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -509,8 +509,8 @@
     "title": "Phase 1: Discovery",
     "displayTitle": "Phase 1: Discovery",
     "body": "<p>By the end of this phase it is important to understand potential opportunities as well as challenges that will need to be addressed.&nbsp;</p><p>Some of the key activities in the first phase include:</p>",
-    "_id": "5f24285d41097409545146d5",
-    "_parentId": "5f24285d4109740954514688",
+    "_id": "62386a33134761027a960635",
+    "_parentId": "62386a33134761027a9605c9",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -571,8 +571,8 @@
     "title": "Phase 1: Discovery",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146d6",
-    "_parentId": "5f24285d4109740954514688",
+    "_id": "62386a33134761027a960636",
+    "_parentId": "62386a33134761027a9605c9",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -605,8 +605,8 @@
     "title": "Phase 2: Refinement",
     "displayTitle": "Phase 2: Refinement",
     "body": "<p>During the refinement phase it is important to establish the suitability of the data to address the project's potential objectives.</p><p>Some of the key activities in the second phase include:</p>",
-    "_id": "5f24285d41097409545146d7",
-    "_parentId": "5f24285d4109740954514689",
+    "_id": "62386a33134761027a960637",
+    "_parentId": "62386a33134761027a9605d2",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -667,8 +667,8 @@
     "title": "Phase 2: Refinement",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146d8",
-    "_parentId": "5f24285d4109740954514689",
+    "_id": "62386a33134761027a960638",
+    "_parentId": "62386a33134761027a9605d2",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -701,8 +701,8 @@
     "title": "Phase 3: Development",
     "displayTitle": "Phase 3: Development",
     "body": "<p>The first stage of the second diamond is another ideation phase and is all about exploring techniques to deliver the project’s specific objectives.&nbsp;</p><p>This may include:<br />&nbsp;</p>",
-    "_id": "5f24285d41097409545146d9",
-    "_parentId": "5f24285d410974095451468a",
+    "_id": "62386a33134761027a960639",
+    "_parentId": "62386a33134761027a9605da",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -763,8 +763,8 @@
     "title": "Phase 3: Development",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146da",
-    "_parentId": "5f24285d410974095451468a",
+    "_id": "62386a33134761027a96063a",
+    "_parentId": "62386a33134761027a9605da",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -797,8 +797,8 @@
     "title": "Phase 4: Delivery",
     "displayTitle": "Phase 4: Delivery",
     "body": "<p>By now, everything should be set in stone and this phase is about delivering the final product.</p><p>In addition to these are are other important aspects to ensure successful delivery:</p>",
-    "_id": "5f24285d41097409545146db",
-    "_parentId": "5f24285d410974095451468b",
+    "_id": "62386a33134761027a96063b",
+    "_parentId": "62386a33134761027a9605e0",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -849,8 +849,8 @@
     "title": "Phase 4: Delivery",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146dc",
-    "_parentId": "5f24285d410974095451468b",
+    "_id": "62386a34134761027a96063c",
+    "_parentId": "62386a33134761027a9605e0",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -883,8 +883,8 @@
     "title": "Dealing with challenges",
     "displayTitle": "Dealing with challenges",
     "body": "<p>It is inevitable there will be challenges in any project. The double diamond model is designed to lead you through the process in a controlled way, but what options do you have if something does go wrong at any point?</p>",
-    "_id": "5f24285d41097409545146dd",
-    "_parentId": "5f24285d410974095451468c",
+    "_id": "62386a34134761027a96063d",
+    "_parentId": "62386a33134761027a9605bf",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -914,7 +914,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -973,8 +973,8 @@
     "title": "Can you remember the stages?",
     "displayTitle": "",
     "body": "<p>See if you can match where the following activity types belong within the four phases:</p>",
-    "_id": "5f24285d41097409545146de",
-    "_parentId": "5f24285d410974095451468d",
+    "_id": "62386a34134761027a96063e",
+    "_parentId": "62386a33134761027a9605ca",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -987,7 +987,7 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -1057,7 +1057,7 @@
         ]
       },
       {
-        "text": "Exploratory data analysis",
+        "text": "Develop prototype solutions",
         "_options": [
           {
             "text": "Before phase 1",
@@ -1069,11 +1069,11 @@
           },
           {
             "text": "Phase 2: Refinement",
-            "_isCorrect": true
+            "_isCorrect": false
           },
           {
             "text": "Phase 3: Development",
-            "_isCorrect": false
+            "_isCorrect": true
           },
           {
             "text": "Phase 4: Delivery",
@@ -1088,9 +1088,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right?</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.<br />&nbsp;</p>",
+      "correct": "",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.</p>",
+        "final": "",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1136,8 +1136,8 @@
     "title": "Can you remember the stages?",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146df",
-    "_parentId": "5f24285d410974095451468d",
+    "_id": "62386a34134761027a96063f",
+    "_parentId": "62386a33134761027a9605ca",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1170,8 +1170,8 @@
     "title": "Can you remember the stages?",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146e0",
-    "_parentId": "5f24285d410974095451468e",
+    "_id": "62386a34134761027a960640",
+    "_parentId": "62386a33134761027a9605d3",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1184,7 +1184,7 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "How about these?",
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -1225,7 +1225,7 @@
         ]
       },
       {
-        "text": " Develop prototype solutions",
+        "text": "Exploratory data analysis",
         "_options": [
           {
             "text": "Before phase 1",
@@ -1237,11 +1237,11 @@
           },
           {
             "text": "Phase 2: Refinement",
-            "_isCorrect": false
+            "_isCorrect": true
           },
           {
             "text": "Phase 3: Development",
-            "_isCorrect": true
+            "_isCorrect": false
           },
           {
             "text": "Phase 4: Delivery",
@@ -1285,9 +1285,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.<br />&nbsp;</p>",
+      "correct": "",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.</p>",
+        "final": "",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1333,8 +1333,8 @@
     "title": "Can you remember the stages?",
     "displayTitle": "",
     "body": "",
-    "_id": "5f24285d41097409545146e1",
-    "_parentId": "5f24285d410974095451468e",
+    "_id": "62386a34134761027a960641",
+    "_parentId": "62386a33134761027a9605d3",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1367,8 +1367,8 @@
     "title": "Summary",
     "displayTitle": "",
     "body": "<p>Very few data-project challenges are technical, and are mainly issues around business culture . Through these modules, we have explored how the right data culture is vital to enabling creative transformation at WPP.</p><p>Many data projects fail as they don’t have the right balance of skills. Successful data projects understand the need to mix strategic thought with practical application. The double diamond approach helps balance strategic thought in the first diamond with practical application in the second.&nbsp;</p>",
-    "_id": "5f24285d41097409545146e7",
-    "_parentId": "5f24285d4109740954514690",
+    "_id": "62386a34134761027a960647",
+    "_parentId": "62386a33134761027a9605c1",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1394,9 +1394,9 @@
     "_disableAccessibilityState": false,
     "title": "Summary 2",
     "displayTitle": "",
-    "body": "<p>Our approach with WPP Open is to support our community to get more creative with data. The WPP Open Data Catalogue and Data &amp; AI Ethics Guidelines have been created to help reduce the barriers and challenges in discovering, accessing and using data responsibly.&nbsp;</p><p>Getting creative with data also requires a diverse and multi-skilled team who are all aware of the opportunities and limitations of using data in projects.</p>",
-    "_id": "5f24285d41097409545146e8",
-    "_parentId": "5f24285d4109740954514690",
+    "body": "<p>Our approach with WPP Open is to support our community to get more creative with data. The <a href=\"https://open.wpp.com/data/data-catalog/\">WPP Open Data Catalogue</a> and Data &amp; AI Ethics Guidelines have been created to help reduce the barriers and challenges in discovering, accessing and using data responsibly.&nbsp;</p><p>Getting creative with data also requires a diverse and multi-skilled team who are all aware of the opportunities and limitations of using data in projects.</p>",
+    "_id": "62386a34134761027a960648",
+    "_parentId": "62386a33134761027a9605c1",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1423,8 +1423,8 @@
     "title": "Join us",
     "displayTitle": "",
     "body": "<p>If you would like to learn more or discuss the content of these modules we invite you to join the growing <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">data and AI&nbsp;community</a> at WPP.&nbsp;</p>",
-    "_id": "5f24285d41097409545146e9",
-    "_parentId": "5f24285d4109740954514691",
+    "_id": "62386a34134761027a960649",
+    "_parentId": "62386a33134761027a9605cb",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {

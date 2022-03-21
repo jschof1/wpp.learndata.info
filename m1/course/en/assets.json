@@ -1,55 +1,7 @@
 {
-  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
-    "title": "Square image placeholder",
-    "description": "Square image placeholder",
-    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
-    "licence": "CC0",
-    "attribution": "Adapt eLearning",
-    "tags": []
-  },
-  "96b049a9d7f3e16988c9ed98403016e1687bd57b.png": {
-    "title": "WPP Purple background",
-    "description": "WPP Purple background",
-    "source": "WPP",
-    "licence": "All rights reserved",
-    "attribution": "WPP",
-    "tags": []
-  },
-  "716e452cab9c1f213196bbdb8065d55c0787453b.png": {
-    "title": "WPP Alpha 1",
-    "description": "WPP Alpha 1",
-    "source": "WPP",
-    "licence": "All rights reserved",
-    "attribution": "WPP",
-    "tags": []
-  },
-  "b8155ebdeae138cc3f10454df3f47f3be8d38eac.png": {
-    "title": "WPP Alpha 2",
-    "description": "WPP Alpha 2",
-    "source": "https://wpp.com",
-    "licence": "All rights reserved",
-    "attribution": "WPP",
-    "tags": []
-  },
-  "7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png": {
-    "title": "WPP Alpha 4 - Reverse",
-    "description": "WPP Alpha 4 - Reverse",
-    "source": "https://wpp.com",
-    "licence": "All rights reserved",
-    "attribution": "WPP",
-    "tags": []
-  },
   "1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png": {
     "title": "WPP Alpha 5",
     "description": "WPP Alpha 5",
-    "source": "https://wpp.com",
-    "licence": "All rights reserved",
-    "attribution": "WPP",
-    "tags": []
-  },
-  "51e57ebb8f52dffec1ee5163bdc9731d69ab31e7.png": {
-    "title": "WPP Data Strategy - Diagram - 600x600.png",
-    "description": "WPP Data Strategy - Diagram - 600x600.png",
     "source": "https://wpp.com",
     "licence": "All rights reserved",
     "attribution": "WPP",
@@ -63,14 +15,6 @@
     "attribution": "Adapted from the Open Data Institute's theory of change",
     "tags": []
   },
-  "4c2c01ab8fdaed926d3b3ab2676a63bce118624e.png": {
-    "title": "WPP People Map",
-    "description": "WPP People Map",
-    "source": "https://wpp.com",
-    "licence": "All rights reserved",
-    "attribution": "WPP",
-    "tags": []
-  },
   "451c6dc1e6683b6ad4c3a93fcff3b71fcdebaf6d.jpg": {
     "title": "Connected blue lights",
     "description": "Connected blue lights",
@@ -79,12 +23,44 @@
     "attribution": "Pixabay",
     "tags": []
   },
-  "998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg": {
-    "title": "Hands holding, trust, community",
-    "description": "Hands holding, trust, community",
-    "source": "https://www.pexels.com/photo/hands-people-friends-communication-45842/",
+  "4c2c01ab8fdaed926d3b3ab2676a63bce118624e.png": {
+    "title": "WPP People Map",
+    "description": "WPP People Map",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "51e57ebb8f52dffec1ee5163bdc9731d69ab31e7.png": {
+    "title": "WPP Data Strategy - Diagram - 600x600.png",
+    "description": "WPP Data Strategy - Diagram - 600x600.png",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
+    "title": "Square image placeholder",
+    "description": "Square image placeholder",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
     "licence": "CC0",
-    "attribution": "Pixabay",
+    "attribution": "Adapt eLearning",
+    "tags": []
+  },
+  "716e452cab9c1f213196bbdb8065d55c0787453b.png": {
+    "title": "WPP Alpha 1",
+    "description": "WPP Alpha 1",
+    "source": "WPP",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png": {
+    "title": "WPP Alpha 4 - Reverse",
+    "description": "WPP Alpha 4 - Reverse",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
     "tags": []
   },
   "98f36d50dd7f90c64222c12bcb58e2ba5b126cb4.png": {
@@ -95,12 +71,36 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
+  "998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg": {
+    "title": "Hands holding, trust, community",
+    "description": "Hands holding, trust, community",
+    "source": "https://www.pexels.com/photo/hands-people-friends-communication-45842/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
+    "tags": []
+  },
   "a35789ccc778fd791b6af032522d21382fe3bbe1.png": {
     "title": "WPP ODI Theory of Change - Fearing",
     "description": "WPP ODI Theory of Change - Fearing",
     "source": "https://theodi.org",
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png": {
+    "title": "WPP Logo Navy",
+    "description": "WPP Logo Navy",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "b8155ebdeae138cc3f10454df3f47f3be8d38eac.png": {
+    "title": "WPP Alpha 2",
+    "description": "WPP Alpha 2",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
     "tags": []
   }
 }

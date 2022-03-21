@@ -8,8 +8,8 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "_disableAnimationFor": [],
-  "_id": "5f2425cb410974095451457f",
-  "_courseId": "5f2425cb41097409545144dc",
+  "_id": "62386617134761027a960509",
+  "_courseId": "62386615134761027a960466",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
@@ -31,7 +31,7 @@
       "_notify": 1
     }
   },
-  "__v": 1,
+  "__v": 0,
   "_completionCriteria": {
     "_requireContentCompleted": true,
     "_requireAssessmentCompleted": false
@@ -78,26 +78,5 @@
   },
   "_devtools": {
     "_isEnabled": true
-  },
-  "build": {
-    "includes": [
-      "adapt-contrib-boxMenu",
-      "5ee351b2d140fe35be130b76",
-      "adapt-contrib-text",
-      "adapt-contrib-graphic",
-      "adapt-contrib-mcq",
-      "adapt-contrib-accordion",
-      "adapt-contrib-assessmentResults",
-      "adapt-contrib-hotgraphic",
-      "adapt-contrib-narrative",
-      "adapt-contrib-media",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
-      "adapt-contrib-spoor",
-      "adapt-contrib-aboutPage",
-      "adapt-odi-footerLink",
-      "adapt-contrib-assessment",
-      "adapt-devtools"
-    ]
   }
 }

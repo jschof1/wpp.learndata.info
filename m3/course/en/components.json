@@ -12,8 +12,8 @@
     "title": "Being trusted with data",
     "displayTitle": "Being trusted with data",
     "body": "<p>WPP recognises its obligations to its stakeholders including shareowners, clients, its own people, suppliers and consumers.&nbsp;</p><p>This module looks at what practices&nbsp;need to be in place to ensure we are trusted to be responsible with data.</p><p>Specifically, this module looks at the importance of:&nbsp;</p><ul><li>respecting the rights of organisations and individuals</li><li>being transparent with how data is collected, shared and used</li><li>identifying and managing ethical concerns</li></ul>",
-    "_id": "5f2425cb4109740954514549",
-    "_parentId": "5f2425cb4109740954514507",
+    "_id": "62386617134761027a9604d3",
+    "_parentId": "62386616134761027a960478",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -40,8 +40,8 @@
     "title": "Intro logo",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb410974095451454a",
-    "_parentId": "5f2425cb4109740954514507",
+    "_id": "62386617134761027a9604d4",
+    "_parentId": "62386616134761027a960478",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -74,8 +74,8 @@
     "title": "Is all data on the web free to use?",
     "displayTitle": "Is all data on the web free to use?",
     "body": "<p>All data available on the web is open and free to use. True or false?</p>",
-    "_id": "5f2425cb410974095451454b",
-    "_parentId": "5f2425cb410974095451450a",
+    "_id": "62386617134761027a9604d5",
+    "_parentId": "62386616134761027a960485",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -159,8 +159,8 @@
     "title": "Respecting rights of data subjects",
     "displayTitle": "Respecting rights of data subjects",
     "body": "<p>As well as respecting the rights of data owners, we must also respect the rights of data subjects: the people the data is about.&nbsp;</p><p>Data security and privacy are increasingly high-profile topics for regulators, consumers and our clients.</p><p>We know that data about consumers can be used as a powerful tool to personalise the customer experience and drive sales, but we are also committed to being transparent with consumers about how data about them is collected, used and shared.&nbsp;</p><p>To learn more about data privacy and rights we recommend looking at the WPP data and AI ethics principles and guidelines. These can be found via the <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">Data and AI community pages</a>.</p>",
-    "_id": "5f2425cb410974095451454c",
-    "_parentId": "5f2425cb410974095451450e",
+    "_id": "62386617134761027a9604d6",
+    "_parentId": "62386616134761027a96049c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -187,8 +187,8 @@
     "title": "Managing bias in data",
     "displayTitle": "Managing bias in data",
     "body": "<p>Ethical data challenges are often faced as a result of data being biased, for example only containing data relating to certain demographics of geographic areas.&nbsp;</p><p>What can you do to help reduce the risk of&nbsp;biased data leading to unethical results?</p>",
-    "_id": "5f2425cb410974095451454d",
-    "_parentId": "5f2425cb410974095451450d",
+    "_id": "62386617134761027a9604d7",
+    "_parentId": "62386616134761027a96048e",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -282,8 +282,8 @@
     "title": "Lady justice",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb410974095451454e",
-    "_parentId": "5f2425cb410974095451450d",
+    "_id": "62386617134761027a9604d8",
+    "_parentId": "62386616134761027a96048e",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -316,8 +316,8 @@
     "title": "Case studies in data ethics",
     "displayTitle": "Case studies in data ethics",
     "body": "<p>Explore the case studies below to find out how even non-personal data can lead to inequitable and unethical outcomes.&nbsp;<br />&nbsp;</p>",
-    "_id": "5f2425cb410974095451454f",
-    "_parentId": "5f2425cb410974095451450f",
+    "_id": "62386617134761027a9604d9",
+    "_parentId": "62386616134761027a960496",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -334,7 +334,7 @@
     "_items": [
       {
         "title": "Case study 1: PokemonGo! A real-world game",
-        "body": "<p>Within days of the popular augmented reality game PokemonGo being released many felt excluded. It was discovered that many areas were deprived of PokeStops and these appeared to be in lower-income and predominantly ethnic minority neighbourhoods. Investigations found that PokeStops had been crowdsourced from a previous game called ‘Ingress’ which was primarily played by people from white and higher-income neighbourhoods This limitation in the data led to accusations of bias, even though the data was not personal data.</p>",
+        "body": "<p>Within days of the popular augmented reality game PokemonGo being released many felt excluded. It was discovered that <a href=\"https://dcist.com/story/16/08/02/maps-pokestops-and-gyms-concentrate/\">many areas were deprived of PokeStops and these appeared to be in lower-income and predominantly ethnic minority neighbourhoods</a>. Investigations found that PokeStops had been crowdsourced from a previous game called ‘Ingress’ which was primarily played by people from white and higher-income neighbourhoods This limitation in the data led to accusations of bias, even though the data was not personal data.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -344,7 +344,7 @@
       },
       {
         "title": "Case study 2: Automated consumer profiling - car insurance",
-        "body": "<p>A 2018 investigation in the UK found that people with the first name ‘Mohammed’ were charged up to £1,000 more to insure their cars than someone with the first name ‘John’. The investigation compared insurance quotes that contained exactly the same details for everything but first name. They discovered that the algorithms that calculate insurance quotes appear to correlate first names with level of risk. Although the exact reason for this is not known, experts suspect that the source data used by the decision-making system &nbsp;does not contain a wide variety of data for certain names, and therefore makes &nbsp;decisions based on a limited number of existing profiles with the same name. Remember, data variety is our superpower.&nbsp;</p>",
+        "body": "<p>A <a href=\"https://www.thesun.co.uk/motors/5393978/insurance-race-row-john-mohammed/\">2018 investigation in the UK</a> found that people with the first name ‘Mohammed’ were charged up to £1,000 more to insure their cars than someone with the first name ‘John’. The investigation compared insurance quotes that contained exactly the same details for everything but first name. They discovered that the algorithms that calculate insurance quotes appear to correlate first names with level of risk. Although the exact reason for this is not known, experts suspect that the source data used by the decision-making system &nbsp;does not contain a wide variety of data for certain names, and therefore makes &nbsp;decisions based on a limited number of existing profiles with the same name. Remember, data variety is our superpower.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -354,7 +354,7 @@
       },
       {
         "title": "Case study 3: Good Samaritan – suicidal tweets",
-        "body": "<p>A charity developed a tool that analysed the sentiment of a user’s tweets, assessed whether they are suicidal and alerted friends. While this is an admirable project and a potentially life-saving tool, it ultimately proved to be both illegal, inaccurate and too controversial. Assessing someone's mental state means you are dealing with sensitive personal data that should not simply be broadcast to friends without careful consideration. We also know from our work with Investec on #MoreThanData, that using data to profile individuals, as opposed to groups, is often inaccurate and leads to breakdown in trust.</p>",
+        "body": "<p>A <a href=\"https://www.theguardian.com/technology/2014/oct/29/samaritans-radar-twitter-suicide-risk\">charity developed a tool</a> that analysed the sentiment of a user’s tweets, assessed whether they are suicidal and alerted friends. While this is an admirable project and a potentially life-saving tool, it ultimately proved to be both illegal, inaccurate and too controversial. Assessing someone's mental state means you are dealing with sensitive personal data that should not simply be broadcast to friends without careful consideration. We also know from our work with Investec on #MoreThanData, that using data to profile individuals, as opposed to groups, is often inaccurate and leads to breakdown in trust.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -363,7 +363,8 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "mcq",
@@ -378,8 +379,8 @@
     "title": "Question 1",
     "displayTitle": "Question 1",
     "body": "<p>We have a responsibility to be transparent to society and our clients about how we use data.&nbsp;True or false?</p>",
-    "_id": "5f2425cb4109740954514550",
-    "_parentId": "5f2425cb4109740954514508",
+    "_id": "62386617134761027a9604da",
+    "_parentId": "62386616134761027a960483",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -462,9 +463,9 @@
     "_disableAccessibilityState": false,
     "title": "Different types of data in the WPP Open Data Catalog",
     "displayTitle": "",
-    "body": "<p>The different types of data are clearly tagged in the <a href=\"https://data.world/wppdatacatalogue/\" target=\"_blank\">WPP Open Data Catalog</a>. On a dataset page there is a “Sensitivity/Restricted” section under “More information”. Open data is labelled with tags such as “Open source” or “Public” and is available to everyone, even those outside of WPP. Other datasets are tagged as “WPP only” or “Restricted”.</p>",
-    "_id": "5f2425cb4109740954514551",
-    "_parentId": "5f2425cb410974095451450c",
+    "body": "<p>The different types of data are clearly tagged in the&nbsp;<a href=\"https://open.wpp.com/data/data-catalog/\">WPP&nbsp;Data Catalog</a>. On a dataset page, under “More information”, you can see data attributes that apply to the dataset.<br />Open data is labelled with tags such as “Open source” or “Public” and can be shared with anyone, even outside of&nbsp;WPP. Other datasets are tagged as “WPP” or “Limited”.</p>",
+    "_id": "62386617134761027a9604db",
+    "_parentId": "62386616134761027a960495",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -491,8 +492,8 @@
     "title": "Question 2",
     "displayTitle": "Question 2",
     "body": "<p>We only need to be concerned with ethics, equality and human rights when processing personal data. True or false?</p>",
-    "_id": "5f2425cb4109740954514552",
-    "_parentId": "5f2425cb4109740954514510",
+    "_id": "62386617134761027a9604dc",
+    "_parentId": "62386616134761027a96048f",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -576,8 +577,8 @@
     "title": "Question 4",
     "displayTitle": "Question 4",
     "body": "<p>Whose responsibility is it to ensure we are ethical with data?</p>",
-    "_id": "5f2425cb4109740954514553",
-    "_parentId": "5f2425cb4109740954514511",
+    "_id": "62386617134761027a9604dd",
+    "_parentId": "62386616134761027a96049d",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -671,8 +672,8 @@
     "title": "Question 3",
     "displayTitle": "Question 3",
     "body": "<p>New AI systems tout the ability for machines to learn from data and make decisions autonomously. Who is responsible for the decisions these systems make?</p>",
-    "_id": "5f2425cb4109740954514554",
-    "_parentId": "5f2425cb4109740954514512",
+    "_id": "62386617134761027a9604de",
+    "_parentId": "62386616134761027a960497",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -761,8 +762,8 @@
     "title": "ODI Data Ethics Canvas",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb4109740954514555",
-    "_parentId": "5f2425cb4109740954514509",
+    "_id": "62386617134761027a9604df",
+    "_parentId": "62386616134761027a960484",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -795,8 +796,8 @@
     "title": "Identifying and managing ethical concerns",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb4109740954514556",
-    "_parentId": "5f2425cb4109740954514513",
+    "_id": "62386617134761027a9604e0",
+    "_parentId": "62386616134761027a960479",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -867,8 +868,8 @@
     "title": "Data on the web",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb4109740954514557",
-    "_parentId": "5f2425cb410974095451450a",
+    "_id": "62386617134761027a9604e1",
+    "_parentId": "62386616134761027a960485",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -901,8 +902,8 @@
     "title": "Mini quiz: Our values",
     "displayTitle": "Mini quiz: Our values",
     "body": "<p>WPPs ethical values are designed to help guide those tricky decisions where people might have different moral beliefs. The mini quiz is not a test to see if your beliefs align, we are simply using it as an interactive learning mechanism. If you would like to discuss and discover more about our ethical values please come and talk to the <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">community</a>.</p>",
-    "_id": "5f2425cb4109740954514558",
-    "_parentId": "5f2425cb4109740954514514",
+    "_id": "62386617134761027a9604e2",
+    "_parentId": "62386616134761027a96047a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -929,8 +930,8 @@
     "title": "How did you do?",
     "displayTitle": "How did you do?",
     "body": "<p>Complete the miniquiz to see your result.</p>",
-    "_id": "5f2425cb4109740954514559",
-    "_parentId": "5f2425cb4109740954514515",
+    "_id": "62386617134761027a9604e3",
+    "_parentId": "62386616134761027a96047b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -981,8 +982,8 @@
     "title": "The ODI Data Ethics Canvas",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb410974095451455a",
-    "_parentId": "5f2425cb4109740954514513",
+    "_id": "62386617134761027a9604e4",
+    "_parentId": "62386616134761027a960479",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1015,8 +1016,8 @@
     "title": "Summary",
     "displayTitle": "Summary",
     "body": "<p>WPP recognises its obligations to its stakeholders including shareowners, clients, its own people, suppliers and consumers.&nbsp;</p><p>We must respect and protect the rights of organisations and individuals alike and we must do this in a way that means that data is used not only lawfully but ethically.</p><p>Find out more about our codes of practice and ethical frameworks on the <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">community pages</a>, where you can also find our how to join the community and ask for help.</p>",
-    "_id": "5f2425cb410974095451455b",
-    "_parentId": "5f2425cb4109740954514516",
+    "_id": "62386617134761027a9604e5",
+    "_parentId": "62386616134761027a960486",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1043,8 +1044,8 @@
     "title": "Summary clipboard",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb410974095451455c",
-    "_parentId": "5f2425cb4109740954514516",
+    "_id": "62386617134761027a9604e6",
+    "_parentId": "62386616134761027a960486",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1059,8 +1060,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/11a23589f7e594efbef867d036240970a73f12bf.png",
-      "small": "course/en/assets/11a23589f7e594efbef867d036240970a73f12bf.png",
+      "large": "course/en/assets/1320716f219dbe46348cbe6e3bb53556e3c781f1.png",
+      "small": "course/en/assets/1320716f219dbe46348cbe6e3bb53556e3c781f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
@@ -1077,8 +1078,8 @@
     "title": "Respecting the rights of data owners",
     "displayTitle": "Respecting the rights of data owners",
     "body": "<p>Owning data – having as much data as possible in one place, trying to know everything about everyone – is not only a problem in terms of data management, it also risks infringing rights.&nbsp;</p><p>To help explain this complex landscape, the Open Data Institute has produced the Data Spectrum which neatly illustrates the different types of data you will find in the WPP catalogue.&nbsp;</p>",
-    "_id": "5f2425cb410974095451455d",
-    "_parentId": "5f2425cb410974095451450b",
+    "_id": "62386617134761027a9604e7",
+    "_parentId": "62386616134761027a96048d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1093,7 +1094,7 @@
     "instruction": "Click on the pins to find out more about each type of data",
     "_setCompletionOn": "allItems",
     "_graphic": {
-      "src": "course/en/assets/2aa4bf0dff8b25e99602fabf2d3e4beba1439653.png",
+      "src": "course/en/assets/f2953229a5f25b11355c0074278e46e8dd0f7224.png",
       "alt": "",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     },
@@ -1101,6 +1102,8 @@
     "mobileInstruction": "",
     "_hidePagination": false,
     "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
     "_useGraphicsAsPins": false,
     "_isRound": false,
     "_items": [
@@ -1110,7 +1113,7 @@
         "body": "<p dir=\"ltr\">Closed data covers data that is only available to a few individuals. Data should be closed if it is necessary to protect people from harm, and covers things such as sensitive legal documents, employment contracts and personal health records.&nbsp;</p><p dir=\"ltr\">Examples of closed data in WPP include: HR records and appraisal documents.</p>",
         "strapline": "Closed / Limited data",
         "_graphic": {
-          "src": "course/en/assets/c653a75c0723450d17c04f8cf8a25ca22c7fb377.png",
+          "src": "course/en/assets/f145e6f75c5fadc197c2695bb3ca7fe274900599.png",
           "alt": "",
           "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
           "_classes": "spectrum-marker"
@@ -1126,10 +1129,10 @@
       {
         "title": "Shared data",
         "_ariaLevel": 0,
-        "body": "<p dir=\"ltr\">Shared data is the largest category and covers everything from medical research data to social network data. In this category, there are often restrictions on who can access and use the data.</p><p dir=\"ltr\">Examples of shared data in WPP include: <a href=\"https://data.world/wppdatacatalogue/key-brandz-metrics\" target=\"_blank\">BrandZ Data</a> (WPP only),&nbsp; <a href=\"https://data.world/wppdatacatalogue/wpp-data-survey-summary-of-service-providers\" target=\"_blank\">WPP Data Survey - Summary of Service Providers</a> (restricted).&nbsp;</p>",
+        "body": "<p dir=\"ltr\">Shared data is the largest category and covers everything from medical research data to social network data. In this category, there are often restrictions on who can access and use the data.</p><p dir=\"ltr\">Examples of shared data in WPP include: <a href=\"https://wppbav.com/\">BAV</a>&nbsp;(WPP only),&nbsp; <a href=\"https://data.world/wppdatacatalogue/wpp-data-survey-summary-of-service-providers\" target=\"_blank\">WPP Data Survey - Summary of Service Providers</a> (restricted).&nbsp;</p>",
         "strapline": "Shared data",
         "_graphic": {
-          "src": "course/en/assets/fd837fbc66bc4380b0b558e3c522f0743a010a71.png",
+          "src": "course/en/assets/deb27ec9e762978fc639027db87cae9e39535587.png",
           "alt": "",
           "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
           "_classes": "spectrum-marker"
@@ -1167,7 +1170,7 @@
         "body": "<p dir=\"ltr\">Open data is data that anyone can access, use and share. Companies and governments have been increasingly publishing open data and reaping the benefits of the ecosystems the data supports.&nbsp;</p><p dir=\"ltr\"><br />Examples of open data in WPP include: <a href=\"https://data.world/wppdatacatalogue/corporate-messaging\" target=\"_blank\">Corporate messaging</a> (public), <a href=\"https://data.world/wppdatacatalogue/future-of-business-survey-aggregated-data\" target=\"_blank\">Future of Business Survey</a> (public).</p>",
         "strapline": "Open data",
         "_graphic": {
-          "src": "course/en/assets/60ed051578a0c26b44b280c2870416639e19c13a.png",
+          "src": "course/en/assets/0e424e828a470902c84a57ec88e92d1880620249.png",
           "alt": "",
           "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
           "_classes": "spectrum-marker"
@@ -1195,8 +1198,8 @@
     "title": "WPP Catalog",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb410974095451455e",
-    "_parentId": "5f2425cb410974095451450c",
+    "_id": "62386617134761027a9604e8",
+    "_parentId": "62386616134761027a960495",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1211,9 +1214,11 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/4b1c952d6a5688df181b60b5d80b02f8ec5bca29.jpg",
-      "small": "course/en/assets/4b1c952d6a5688df181b60b5d80b02f8ec5bca29.jpg",
-      "attribution": "<a href=\"https://data.world/wppdatacatalogue/\" target=\"_blank\">WPP Open</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/810e699f570c7f68bd04be267671180521201a74.png",
+      "small": "course/en/assets/810e699f570c7f68bd04be267671180521201a74.png",
+      "attribution": "<a href=\"https://data.world/wppdatacatalogue/\" target=\"_blank\">WPP Open</a> <span class='assetLicence'>[CC-BY-ND]</span>",
+      "_url": "",
+      "_target": null
     }
   },
   {
@@ -1229,8 +1234,8 @@
     "title": "Engaging consumers in conversations about trust",
     "displayTitle": "Engaging consumers in conversations about trust",
     "body": "<p>In their #MoreThanData campaign Investec &amp; Wunderman Thompson Africa used data to show the limitations of data. By acknowledging the concerns about data and engaging in genuine two-way conversations, Investec was able to build a position of trust about data for their brand that goes beyond the standard statements about data trustworthiness used by many brands.</p>",
-    "_id": "5f2425cb4109740954514577",
-    "_parentId": "5f2425cb4109740954514524",
+    "_id": "62386617134761027a960501",
+    "_parentId": "62386616134761027a96047f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1248,7 +1253,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://player.vimeo.com/video/437157570?texttrack=en",
+      "source": "https://player.vimeo.com/video/437157570",
       "type": "video/vimeo",
       "poster": "",
       "cc": []
@@ -1287,8 +1292,8 @@
     "title": "Bubble",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb4109740954514578",
-    "_parentId": "5f2425cb4109740954514508",
+    "_id": "62386617134761027a960502",
+    "_parentId": "62386616134761027a960483",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1321,8 +1326,8 @@
     "title": "Protest/Equality",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb4109740954514579",
-    "_parentId": "5f2425cb4109740954514510",
+    "_id": "62386617134761027a960503",
+    "_parentId": "62386616134761027a96048f",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1355,8 +1360,8 @@
     "title": "Plasma ball",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb410974095451457a",
-    "_parentId": "5f2425cb4109740954514512",
+    "_id": "62386617134761027a960504",
+    "_parentId": "62386616134761027a960497",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1389,8 +1394,8 @@
     "title": "Loudspeaker",
     "displayTitle": "",
     "body": "",
-    "_id": "5f2425cb410974095451457b",
-    "_parentId": "5f2425cb4109740954514511",
+    "_id": "62386617134761027a960505",
+    "_parentId": "62386616134761027a96049d",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {

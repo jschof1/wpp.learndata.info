@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f24285d4109740954514653",
-    "_parentId": "5f24285d410974095451464b",
+    "_id": "62386a33134761027a9605af",
+    "_parentId": "62386a33134761027a9605ab",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -24,8 +24,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
-      "_isEnabled": true,
-      "_id": "working_with_data_1",
+      "_isEnabled": false,
+      "_id": "",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -45,9 +45,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": true,
-        "_canShowMarking": true,
-        "_canShowModelAnswer": true
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       }
     },
     "_odi-generic": {
@@ -75,8 +75,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f24285d4109740954514654",
-    "_parentId": "5f24285d410974095451464b",
+    "_id": "62386a33134761027a9605b1",
+    "_parentId": "62386a33134761027a9605ab",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -139,8 +139,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f24285d4109740954514655",
-    "_parentId": "5f24285d410974095451464b",
+    "_id": "62386a33134761027a9605b3",
+    "_parentId": "62386a33134761027a9605ab",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -152,8 +152,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
-      "_isEnabled": true,
-      "_id": "working_with_data_2",
+      "_isEnabled": false,
+      "_id": "",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -173,9 +173,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": true,
-        "_canShowMarking": true,
-        "_canShowModelAnswer": true
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       }
     },
     "_odi-generic": {
@@ -203,8 +203,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f24285d4109740954514656",
-    "_parentId": "5f24285d410974095451464b",
+    "_id": "62386a33134761027a9605b5",
+    "_parentId": "62386a33134761027a9605ab",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

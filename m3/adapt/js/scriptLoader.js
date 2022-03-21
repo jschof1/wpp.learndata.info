@@ -1,5 +1,7 @@
 (function() {
 
+  var isProduction = (window.ADAPT_BUILD_TYPE !== 'development');
+
   // Change location of Adapt CSS if incorrect
   (function () {
     var oldHRef = 'adapt/css/adapt.css';
@@ -62,7 +64,8 @@
         }
       },
       paths: {
-        polyfill: 'libraries/polyfill.min',
+        'regenerator-runtime': 'libraries/regenerator-runtime.min',
+        'core-js': 'libraries/core-js.min',
         jquery: 'libraries/jquery.min',
         underscore: 'libraries/underscore.min',
         'underscore.results': 'libraries/underscore.results',
@@ -77,7 +80,12 @@
         scrollTo: 'libraries/scrollTo.min',
         bowser: 'libraries/bowser',
         'enum': 'libraries/enum',
-        jqueryMobile: 'libraries/jquery.mobile.custom'
+        jqueryMobile: 'libraries/jquery.mobile.custom.min',
+        react: isProduction ? 'libraries/react.production.min' : 'libraries/react.development',
+        'react-dom': isProduction ? 'libraries/react-dom.production.min' : 'libraries/react-dom.development',
+        'object.assign': 'libraries/object.assign',
+        'html-react-parser': 'libraries/html-react-parser.min',
+        semver: 'libraries/semver'
       }
     });
     loadJQuery();
@@ -109,8 +117,9 @@
   function loadFoundationLibraries() {
     require([
       'handlebars',
-      'polyfill',
       'underscore',
+      'regenerator-runtime',
+      'core-js',
       'underscore.results',
       'backbone',
       'backbone.controller',
@@ -123,19 +132,32 @@
       'libraries/jquery.resize',
       'scrollTo',
       'bowser',
-      'enum'
+      'enum',
+      'react',
+      'react-dom',
+      'object.assign',
+      'html-react-parser',
+      'semver'
+    ], loadGlobals);
+  }
+
+  // 7. Expose global context libraries
+  function loadGlobals(Handlebars, _) {
+    window._ = _;
+    window.Handlebars = Handlebars;
+    require([
+      'events/touch'
     ], loadTemplates);
   }
 
-  // 7. Load templates after making handlebars context global
-  function loadTemplates(Handlebars) {
-    window.Handlebars = Handlebars;
+  // 8. Load templates
+  function loadTemplates() {
     require([
       'templates'
     ], loadAdapt);
   }
 
-  // 8. Allow cross-domain AJAX then load Adapt
+  // 9. Allow cross-domain AJAX then load Adapt
   function loadAdapt() {
     $.ajaxPrefilter(function(options) {
       options.crossDomain = true;
