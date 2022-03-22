@@ -1,8 +1,8 @@
 [
   {
-    "title": "Working with data",
-    "displayTitle": "Working with data",
-    "body": "<p>Data is a creative material. It does not exist simply to be processed in a spreadsheet and turned into a chart. Data can tell intriguing stories, create powerful experiences and lead a brand. But for data to create these experiences we need to ensure that working practices around data are robust.&nbsp;</p><p>This module will give a high-level overview of the processes and skills required to work practically with data to ensure high quality, robust results.</p>",
+    "title": "Being trusted with data",
+    "displayTitle": "Being trusted with data",
+    "body": "<p dir=\"ltr\">We believe that clients should be able to rely on our data expertise to deliver creative transformation because they trust us: to be responsible with data; to hold ourselves accountable for the data-driven decisions we are making; and to do our best to protect our clients.&nbsp;</p><p dir=\"ltr\">This module looks at what practices&nbsp;need to be in place to ensure we are trusted to be responsible with data.</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "",
@@ -18,12 +18,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "62386a33134761027a9605ab",
+    "_id": "62386615134761027a960469",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/93bdc9e842706d06d7cbe99eb0e5f6316b73bc7b.jpg"
+      "src": "course/en/assets/c96bde9a72a07b7c03b03808d040967d15d298c3.png"
     },
     "_onScreen": {
       "_isEnabled": false,

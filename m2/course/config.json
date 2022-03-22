@@ -55,6 +55,7 @@
     "_tracking": {
       "_shouldSubmitScore": true,
       "_shouldStoreResponses": true,
+      "_shouldStoreAttempts": false,
       "_shouldRecordInteractions": true
     },
     "_reporting": {
@@ -65,6 +66,7 @@
     "_advancedSettings": {
       "_showDebugWindow": false,
       "_commitOnStatusChange": true,
+      "_commitOnAnyChange": false,
       "_timedCommitFrequency": 10,
       "_maxCommitRetries": 5,
       "_commitRetryDelay": 2000,
@@ -76,13 +78,6 @@
     }
   },
   "_devtools": {
-<<<<<<< Updated upstream
-    "_isEnabled": true
-  },
-  "_backButton": {
-    "_isEnabled": true
-=======
     "_isEnabled": false
->>>>>>> Stashed changes
   }
 }

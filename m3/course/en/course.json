@@ -1,12 +1,12 @@
 {
-  "title": "Copy of Using data for creative transformation",
-  "displayTitle": "Using data for creative transformation",
+  "title": "Being Trusted With Data",
+  "displayTitle": "Being Trusted With Data",
   "body": "<p>At WPP we want data to motivate, change and grow our creativity, fuelled by our talent’s knowledge and curiosity. We do this by&nbsp;challenging ourselves to think more creatively about what data is available and how it can be used to deliver extraordinary insights for our clients.</p><p>These four modules have been developed to help everyone understand where data fits in the WPP landscape. They examine&nbsp;how data is already delivering creative transformation, and how we&nbsp;can work with data responsibly and in ways that our clients can trust.</p><p>Each interactive module has been designed to be easy to read through in around 15 minutes. Questions are used purely as learning aids and do not form part of any assessment process.&nbsp;</p>",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 15,
+  "_latestTrackingId": 17,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -40,7 +40,7 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "62386572134761027a960327",
+        "_id": "62386615134761027a960469",
         "_skipIfComplete": false,
         "_className": ""
       }

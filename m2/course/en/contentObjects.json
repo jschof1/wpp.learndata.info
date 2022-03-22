@@ -44,11 +44,6 @@
     "_FooterLink": {
       "_items": []
     },
-    "_backButton": {
-      "_isEnabled": false,
-      "_hideBackButton": false,
-      "_redirectToId": ""
-    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",

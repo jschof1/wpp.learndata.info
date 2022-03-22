@@ -379,14 +379,6 @@
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
   },
-<<<<<<< Updated upstream
-  "_backButton": {
-    "_isEnabled": false,
-    "_hideBackButton": true,
-    "_redirectToId": ""
-  },
-=======
->>>>>>> Stashed changes
   "_boxMenu": {
     "_backgroundImage": {
       "_large": "",
