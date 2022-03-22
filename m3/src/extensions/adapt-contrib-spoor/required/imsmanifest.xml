@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="@@config._spoor._advancedSettings._manifestIdentifier" version="1" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+<<<<<<< Updated upstream:m3/imsmanifest.xml
+          <langstring xml:lang="x-none"><![CDATA[Being Trusted With Data]]></langstring>
+=======
+          <langstring xml:lang="x-none"><![CDATA[@@course.title]]></langstring>
+>>>>>>> Stashed changes:m3/src/extensions/adapt-contrib-spoor/required/imsmanifest.xml
+        </title>
+        <description>
+          <langstring xml:lang="x-none"><![CDATA[@@course.description]]></langstring>
+        </description>
+      </general>
+    </lom>
+  </metadata>
+  <organizations default="adapt_scorm">
+    <organization identifier="adapt_scorm">
+<<<<<<< Updated upstream:m3/imsmanifest.xml
+      <title><![CDATA[Being Trusted With Data]]></title>
+      <item identifier="item_1" isvisible="true" identifierref="res1">
+        <title><![CDATA[Being Trusted With Data]]></title>
+=======
+      <title><![CDATA[@@course.title]]></title>
+      <item identifier="item_1" isvisible="true" identifierref="res1">
+        <title><![CDATA[@@course.title]]></title>
+>>>>>>> Stashed changes:m3/src/extensions/adapt-contrib-spoor/required/imsmanifest.xml
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="res1" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="index_lms.html"/>
+    </resource>
+  </resources>
+</manifest>

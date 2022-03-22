@@ -378,11 +378,14 @@
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
+<<<<<<< Updated upstream
   },
   "_backButton": {
     "_isEnabled": false,
     "_hideBackButton": false,
     "_redirectToId": ""
+=======
+>>>>>>> Stashed changes
   },
   "_boxMenu": {
     "_backgroundImage": {

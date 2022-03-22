@@ -17,7 +17,6 @@
   },
   "_accessibility": {
     "_isEnabled": false,
-    "_isTextProcessorEnabled": false,
     "_isSkipNavigationEnabled": true,
     "_ariaLevels": {
       "_menu": 1,
@@ -77,9 +76,13 @@
     }
   },
   "_devtools": {
+<<<<<<< Updated upstream
     "_isEnabled": true
   },
   "_backButton": {
     "_isEnabled": true
+=======
+    "_isEnabled": false
+>>>>>>> Stashed changes
   }
 }
